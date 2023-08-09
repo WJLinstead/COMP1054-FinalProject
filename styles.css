@@ -11,7 +11,7 @@
 }   
 @font-face {
     font-family: "customFont";
-    src: url("C:/Users/barri/Downloads/Final Project/JosefinSans-VariableFont_wght.ttf");
+    src: url("JosefinSans-VariableFont_wght.ttf");
 }
 *{
     font-family: "customFont";
@@ -66,7 +66,7 @@ body{
     object-fit: cover;
     max-height: 100%;
     width: 100%;
-    background-image: url("C:/Users/barri/Downloads/Final Project/img/will.jpg");
+    background-image: url("will.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -172,28 +172,28 @@ div>h5{/*Combinator Selector*/
     list-style-type: none;
 }
 #first{/*Id Selector*/
-    background-image: url("C:/Users/barri/Downloads/Final Project/img/dungeon-back.jpg");
+    background-image: url("dungeon-back.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     background-color: #cccccc;
 }
 #second{
-    background-image: url("C:/Users/barri/Downloads/Final Project/img/pizza-back.jpg");
+    background-image: url("pizza-back.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     background-color: #cccccc;
 }
 #third{
-    background-image: url("C:/Users/barri/Downloads/Final Project/img/calc-back.jpg");
+    background-image: url("calc-back.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     background-color: #cccccc;
 }
 #fourth{
-    background-image: url("C:/Users/barri/Downloads/Final Project/img/hacking-back.jpg");
+    background-image: url("hacking-back.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
